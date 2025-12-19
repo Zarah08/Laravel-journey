@@ -1,5 +1,6 @@
 <h1>Welcome to laravel course</h1>
 <p>Year: {{ $year }}</p>
+<p>{!! $job !!}</p>
 
 <div @class([
     'my-css-class',
