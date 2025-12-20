@@ -10,5 +10,5 @@
 
 @style([
     'color: green',
-    'background-color: red'
+    'background-color: orange'
 ])
