@@ -10,5 +10,5 @@ use Illuminate\Support\Facades\Route;
 
 
 Route::get("/",[HomeController::class,"index"])-> name("home");
-Route::apiRresource("/products", ProductController::class)->only(["index","show"]);
+Route::apiRresource("/products", ProductController::class)->only(["index","show"]); 
     
