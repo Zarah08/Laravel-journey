@@ -14,3 +14,4 @@ Route::apiRresource("/products", ProductController::class)->only(["index","show"
     
 //i did nothing today
 //sick days 
+//getting better
