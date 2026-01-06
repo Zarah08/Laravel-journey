@@ -16,3 +16,4 @@ Route::apiRresource("/products", ProductController::class)->only(["index","show"
 //sick days 
 //getting better
 //back to business
+//was fired bye laravel
