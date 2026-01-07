@@ -17,3 +17,4 @@ Route::apiRresource("/products", ProductController::class)->only(["index","show"
 //getting better
 //back to business
 //was fired bye laravel
+//taking things seriously now 
