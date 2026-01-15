@@ -19,4 +19,5 @@ Route::apiRresource("/products", ProductController::class)->only(["index","show"
 //was fired bye laravel
 //taking things seriously now //cyfrin
 // on track
+//going well
 
