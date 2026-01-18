@@ -23,3 +23,4 @@ Route::apiRresource("/products", ProductController::class)->only(["index","show"
 //long day
 //mmm
 //mmmnnnn
+//...
